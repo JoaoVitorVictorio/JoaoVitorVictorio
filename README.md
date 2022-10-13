@@ -1,4 +1,5 @@
 ### Olá! Eu sou o João Vitor Victorio 👋
+- 🌱 Dev. em evolução. 
 ##
 <div align="center">
     <a href="https://github.com/JoaoVitorVictorio">
