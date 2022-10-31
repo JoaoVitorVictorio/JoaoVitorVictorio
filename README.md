@@ -1,6 +1,6 @@
 ### Hello! I am the João Vitor Victorio 👋
 - 🌱 Dev. in evolution. 🚀
-<!-- - 👨🏻‍💻 Follow the development of **[my portfólio.](https://joaovitorvictorio.github.io/Portfolio/)** -->
+- 👨🏻‍💻 Follow the development of **[my portfólio.](https://joaovitorvictorio.github.io/Portfolio/)**
 
 ##
 <div align="center">
