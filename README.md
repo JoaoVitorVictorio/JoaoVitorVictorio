@@ -16,7 +16,7 @@
    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="João-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="João-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <a href="https://www.python.org" target="_blank"><img align="center" alt="João-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
-  <a href="https://www.php.net/" target="_blank"><img align="center" alt="João-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <!-- <a href="https://www.php.net/" target="_blank"><img align="center" alt="João-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
   
 </div>
 
