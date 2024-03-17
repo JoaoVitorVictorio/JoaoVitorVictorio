@@ -17,6 +17,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="João-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <a href="https://www.python.org" target="_blank"><img align="center" alt="João-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
   <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="João-Python" height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"/>
+  <a href="[https://www.java.com/pt-BR/](https://www.docker.com/)" target="_blank"><img align="center" alt="João-Docker" height="50" width="40" src="[https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor](https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor)"/>
+    
   <!-- <a href="https://www.php.net/" target="_blank"><img align="center" alt="João-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
   
 </div>
