@@ -13,11 +13,13 @@
   <h3>Learning 📚:
   <div style="display: inline_block" /*align="center"*/><br>
   <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="João-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="João-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="João-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="João-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <a href="https://www.python.org" target="_blank"><img align="center" alt="João-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
   <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="João-Java" height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"/>
+  <!-- <a href="https://www.selenium.dev/" target="_blank"><img align="center" alt="João-Selenium" height="50" width="40" src="https://icons8.com/icon/38553/selenium"/> -->
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="João-Docker" height="50" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor"/>
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="João-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
     
   <!-- <a href="https://www.php.net/" target="_blank"><img align="center" alt="João-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
   
