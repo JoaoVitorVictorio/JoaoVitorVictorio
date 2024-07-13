@@ -9,19 +9,22 @@
 </div>
 
 ##
-  <h3>Learning 📚:
+  <h3>Linguagens e Ferramentas 🛠️:
   <div style="display: inline_block" /*align="center"*/><br>
-  <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="João-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="João-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="João-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <a href="https://www.python.org" target="_blank"><img align="center" alt="João-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
-  <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="João-Java" height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"/>
-<!--   <a href="https://www.selenium.dev/" target="_blank"><img width="100" height="100" src="https://img.icons8.com/stickers/100/selenium-test-automation.png" alt="selenium-test-automation"/> -->
-<!--   <a href="https://www.selenium.dev/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/office/16/selenium-test-automation.png" alt="selenium-test-automation"/> -->
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="João-Docker" height="50" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor"/>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="João-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
-    
-  <!-- <a href="https://www.php.net/" target="_blank"><img align="center" alt="João-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
+  <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <a href="https://www.python.org" target="_blank"><img align="center" alt="João-Python" height="35" width="40" src="https://www.svgrepo.com/show/354238/python.svg"/>
+  <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="Java" height="50" width="40" src="https://www.svgrepo.com/show/184143/java.svg"/>
+  <a href="https://www.eclipse.org/" target="_blank"><img align="center" alt="Eclipse" height="50" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"/>
+  <a href="https://www.selenium.dev/pt-br/" target="_blank"><img align="center" alt="Selenium" height="50" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg"/>
+  <a href="https://appium.io/docs/en/latest/" target="_blank"><img align="center" alt="Appium" height="50" width="40" src="https://www.svgrepo.com/show/353413/appium.svg"/>
+  <a href="https://rest-assured.io/" target="_blank"><img align="center" alt="REST Assured" height="40" width="40" src="https://cdn-images-1.medium.com/max/480/1*dbeTcEaIPgyZZ6aaC519RQ.png"/>
+  <a href="https://support.smartbear.com/testcomplete/docs/" target="_blank"><img align="center" alt="TestComplete" height="50" width="50" src="https://img.informer.com/icons/png/128/7453/7453526.png"/>
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="50" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor"/>
+  <a href="https://www.jenkins.io/doc/" target="_blank"><img align="center" alt="Jenkins" height="50" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/" target="_blank"><img align="center" alt="BD-Oracle" height="50" width="40" src="https://www.svgrepo.com/show/354152/oracle.svg"/>  
+  
   
 </div>
 
