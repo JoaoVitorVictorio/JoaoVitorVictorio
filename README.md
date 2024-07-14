@@ -1,5 +1,4 @@
-### Hello! I am the João Vitor Victorio 👋
-<!--- 👨🏻‍💻 Follow the development of **[my portfólio.](https://joaovitorvictorio.github.io/Portfolio/)** -->
+### Olá! Eu sou o João Vitor Victorio 👋
 
 ##
 <div align="center">
