@@ -1,12 +1,11 @@
 ### Olá! Eu sou o João Vitor Victorio 👋
 
 ##
-<div align="center">
-  <a href="https://github.com/JoaoVitorVictorio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorVictorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorVictorio&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
+  <div align="center">
+    <td><img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorVictorio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JoaoVitorVictorio" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorVictorio&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JoaoVitorVictorio" /></td>
+ </div>
+ 
 ##
   <h3>Linguagens e Ferramentas 🛠️:
   <div style="display: inline_block" /*align="center"*/><br>
